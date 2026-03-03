@@ -20,6 +20,6 @@ export default defineConfig({
       },
     },
   ],
-  // Match classmate: "/flowerPlant" for GitHub Pages (case-sensitive – must match repo URL)
-  base: process.env.NODE_ENV === 'production' ? '/flowerPlant' : '/',
+
+  base: process.env.NODE_ENV === 'production' ? '/FlowerPlant' : '/',
 })
