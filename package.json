@@ -1,6 +1,6 @@
 {
-  "name": "app-flower-plant",
-  "homepage": "https://barbaraborini.github.io/flower-plant-app",
+  "name": "appflowerplant",
+  "homepage": "https://barbaraborini.github.io/AppFlowerPlant",
   "private": true,
   "version": "0.0.0",
   "type": "module",
