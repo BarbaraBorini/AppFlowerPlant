@@ -1,4 +1,3 @@
-// Simple, stateless controls for the list filters in MyPlants.
 // The parent component owns the state and passes handlers down.
 const FilterBar = ({ search, level, onSearchChange, onLevelChange }) => {
   return (

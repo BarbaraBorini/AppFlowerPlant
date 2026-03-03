@@ -1,7 +1,4 @@
 const Footer = () => {
-  // Generate the current year dynamically so the copyright line
-  // stays up to date without needing manual changes.
-  const year = new Date().getFullYear()
 
   return (
     <footer className="site-footer">
