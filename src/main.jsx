@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom'
 import './index.css'
 import App from './App.jsx'
 
-// basename matches Vite base so routing works on GitHub Pages (/FlowerPlant/) and locally (/)
+// basename matches Vite base so routing works on GitHub Pages (/flowerPlant) and locally (/)
 const basename = import.meta.env.BASE_URL.replace(/\/$/, '')
 
 createRoot(document.getElementById('root')).render(
